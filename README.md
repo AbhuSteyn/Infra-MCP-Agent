@@ -46,7 +46,7 @@ Client → API Gateway → MCP Server → Kubernetes API
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/infra-mcp-agent.git
+git clone https://github.com/AbhuSteyn/infra-mcp-agent.git
 cd infra-mcp-agent
 ```
 
